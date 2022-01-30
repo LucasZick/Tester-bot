@@ -1,5 +1,4 @@
 # Tester-bot
-# Tester-bot
 \
 A bot that runs the run-contest archive on sourdough/datagrump repo, it needs to be adapted to the size of the screen. Just used to test my skills and also help me in a class work that demand so much time manually.\
 \
