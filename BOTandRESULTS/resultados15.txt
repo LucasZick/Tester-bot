@@ -67,9 +67,9 @@ Average throughput: 4.78 Mbits/s (94.9% utilization)
 RESULTADO 8
 
 Average capacity: 5.04 Mbits/s
-Average throughput: 4.78 Mbits/s (94.8% utilization)
+Average throughput: 4.79 Mbits/s (94.9% utilization)
 95th percentile per-packet queueing delay: 237 ms
-95th percentile signal delay: 603 ms
+95th percentile signal delay: 609 ms
 
 
 
@@ -103,9 +103,9 @@ Average throughput: 4.79 Mbits/s (95.0% utilization)
 RESULTADO 12
 
 Average capacity: 5.04 Mbits/s
-Average throughput: 4.79 Mbits/s (94.9% utilization)
+Average throughput: 4.78 Mbits/s (94.8% utilization)
 95th percentile per-packet queueing delay: 237 ms
-95th percentile signal delay: 609 ms
+95th percentile signal delay: 603 ms
 
 
 
