@@ -27,9 +27,9 @@ for i in range (15):
     time.sleep(180)#wait the finishing of the process
     #baixo(x=76, y=224)
     #cima(x=86, y=133)
-    pyautogui.moveTo(x=76,y=224)
+    pyautogui.moveTo(x=76,y=224)#use cursorposition.py on this repo to find the exactly values, thats probably not the same of my computer
     pyautogui.mouseDown(button='left')
-    pyautogui.dragTo(x=86,y=133,duration=2)
+    pyautogui.dragTo(x=86,y=133,duration=2)#use cursorposition.py on this repo to find the exactly values
     pyautogui.mouseUp(button='left')#select the results
     pyautogui.click(button='right')#open the menu of the selection
     time.sleep(0.2)
